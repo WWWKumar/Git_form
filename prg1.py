@@ -11,3 +11,4 @@ else:
 
 
 print('I am Fine....')
+#these for verifying variables if theire or not
